@@ -1,4 +1,4 @@
-# ✨ Replicación del Sistema de Levitación de Aire (Sin Filtro de Kalman) ✨
+# Replicación del Sistema de Levitación de Aire (Sin Filtro de Kalman)
 
 **Curso:** Sistemas Lineales - EAFIT 2025-1  
 
